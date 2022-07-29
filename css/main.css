@@ -698,6 +698,7 @@
     justify-content: space-between;
     padding: 100px 70px;
     margin-bottom: 50px;
+    border-radius: 30px;
 }
 .subscribe__content--item {
     display: flex;
