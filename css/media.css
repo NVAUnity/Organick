@@ -507,4 +507,26 @@
         color: #525C60;
     }
 
+    @media (max-width:413px) {
+        .feedback__border {
+            display: none;
+        }
+    }
+    @media (max-width:400px) {
+        .subscribe__content {
+            padding: 30px 10px;
+        }
+        .subscribe__form {
+            font-size: 15px;
+            padding: 26px 40px 27px 10px;
+        }
+        .subscribe__btn {
+            padding: 17px 15px 17px 15px;
+            margin-right: 10px;
+        }
+        .btn__subscribe {
+            display: none;
+        }
+    }
+
 }
